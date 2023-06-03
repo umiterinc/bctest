@@ -1,0 +1,17 @@
+
+{
+    "name": "KAHVECI Token 🧸",
+    "description": "Test for Eren Kahveci NFT. ,
+    "image": "https://github.com/umiterinc/bctest/blob/main",
+    "external_url": "https://github.com/umiterinc",
+    "attributes": [
+        {
+            "trait_type": "Artefact", 
+            "value": "Teddybear"
+        },
+        {
+            "trait_type": "Collection", 
+            "value": "Genesis"
+        }
+    ]
+}
